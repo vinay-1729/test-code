@@ -18,7 +18,7 @@ int main() {
     }
     else{
         int c=7,i=10;
-        while(c < n){
+        while(c <= n){
             if(isValid(i)){
                 res = i;
                 c++;
