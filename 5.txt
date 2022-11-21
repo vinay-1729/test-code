@@ -1,0 +1,10 @@
+Website crawling is the automatic software process of retrieving web pages from websites in order to index its information and make them accessible. In order to fetch and index the following pages, the crawler examines the content of each page for links.
+There are two terms we need to discuss like page and site.
+Webpage is the static page containing information any particular area, product or any content.
+Website is the dynamic page containing dynamic entities like URL’s, images, references, login etc. like anything which needs user activity.
+There are two types of crawling
+Page crawling is the type of obtaining particular static page content or a particular post.
+Site Crawling is the type of obtaining the whole page and contains references to each links provided and corresponding page for easy switch. It also contains indexing for pages and redirecting pages.
+After crawling a particular webpage, it is indexing responsibility to get to particular reference when clicking on that particular URL.
+Web Scraping is the methodology used download web content like frontend code along with images and documents in a well structured manner.
+Most popularly used web scraping tools are Web Harvy, Helium Scrapper etc.
